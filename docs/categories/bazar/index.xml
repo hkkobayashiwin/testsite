@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bazar on Ikenobo</title>
-    <link>https://example.org/categories/bazar/</link>
+    <link>https://hkkobayashiwin.github.io/testsite/categories/bazar/</link>
     <description>Recent content in Bazar on Ikenobo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Thu, 13 Apr 2017 12:00:00 -0300</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/bazar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hkkobayashiwin.github.io/testsite/categories/bazar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agradecimento 34º Bazar Anual</title>
-      <link>https://example.org/blog/2017/04/13/agradecimento-34-bazar-anual/</link>
+      <link>https://hkkobayashiwin.github.io/testsite/blog/2017/04/13/agradecimento-34-bazar-anual/</link>
       <pubDate>Thu, 13 Apr 2017 12:00:00 -0300</pubDate>
       
-      <guid>https://example.org/blog/2017/04/13/agradecimento-34-bazar-anual/</guid>
+      <guid>https://hkkobayashiwin.github.io/testsite/blog/2017/04/13/agradecimento-34-bazar-anual/</guid>
       <description>A Diretoria da Associação de Arte Floral &amp;ldquo;Kado Iemoto Ikebana&amp;rdquo; vem pela presente manifestar profundo agradecimento pela presença de todos, de seus familiares e amigos no 34º Bazar Anual, realizado no dia 09 de abril, p. passado, nas dependências da Associação Beneficente de Osaka.
 O grande sucesso alcançado se deve à participação e colaboração dos srs. Associados e Colaboradores.
 Esperamos contar sempre com o incentivo de todos para podermos, juntos, continuar nossa caminhada no Ikebana Ikenobo.</description>
